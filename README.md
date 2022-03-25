@@ -1,4 +1,6 @@
-Hi! I'm still a newbie but interested in Learning Programming and Coding.
+Hi there! 
+<hr>
+I'm still a newbie but interested in Learning Programming and Coding.
 From Mexico, speak English, Japanese and Spanish.
 
 Here, the fields I'm currently working on:
