@@ -1,14 +1,27 @@
-Hi there! 
-<hr>
-I'm still a newbie but interested in Learning Programming and Coding.
-From Mexico, speak English, Japanese and Spanish.
+<h1 align="center">Hi 👋, I'm Eric Medrano!</h1>
+<h3 align="center">I love YOSAKOI Soran!</h3>
 
-Here, the fields I'm currently working on:
--Image Processing
--Computer Vision
--Web Development (Front End and Back End Development)
+- 🌱 I’m currently learning **NodeJS, ReactJS**
 
-I want to learn mobile development with Flutter but not yet started formally learning it.
+- 👨‍💻 Take a look at some HTML [https://emedranoh19a.github.io/WEBDev_Part1_HTML/](https://emedranoh19a.github.io/WEBDev_Part1_HTML/)
 
-Somehow, I can write in Python, C, C++, HTML, CSS, Javascript, MySQL, SQL and PHP.
-There are a lot of things to learn! So let me help you, or try!
+- 👨‍💻 Take a look at some CSS [https://emedranoh19a.github.io/WEBDev_Part2_CSS/](https://emedranoh19a.github.io/WEBDev_Part2_CSS/)
+
+- 💬 Ask me about **WEB Develpoment, Image Processing, or even Japanese Language**
+
+- 📫 How to reach me **emedranoh19a@hotmail.com**
+
+- 👨‍💻 Take a look at some Bootstrap [https://emedranoh19a.github.io/WEBDev_Part3_Bootstrap/](https://emedranoh19a.github.io/WEBDev_Part3_Bootstrap/)
+
+- 👨‍💻 Take a look at some JQuery **https://emedranoh19a.github.io/WEBDeb_Part5_JavaScript/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/er.medra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="er.medra" height="30" width="40" /></a>
+<a href="https://instagram.com/emedranoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emedranoh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emedranoh19a&show_icons=true&locale=en&layout=compact" alt="emedranoh19a" /></p>
