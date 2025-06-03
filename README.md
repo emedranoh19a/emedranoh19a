@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eric Medrano</h1>
 <h3 align="center">A passionate frontend developer from Mexico🌮</h3>
 
+- 👨‍💻 All of my projects are available at **https://eric-medrano-portfolio.netlify.app/**
 - 🔭 I’m currently working on [my yosakoi team's website](https://our-little-secret.netlify.app/)
 
-- 👨‍💻 All of my projects are available at **https://erichiki-front-end-mentor.netlify.app/**
+- 🌱 I’m currently learning **Framer Motion, Tanstack Query, React Native, Rive, Motion Design and Web Design Essentials**
 
-- 🌱 I’m currently learning **Framer Motion, React Native, Python, Web Design Essentials**
-
-- 💬 Ask me about **Languages, CSS**
+- 💬 Ask me about **Languages, Front end Deveopment, UX/UI**
 
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
